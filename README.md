@@ -1,1 +1,4 @@
-# takeout-card
+# Takeout Card
+
+## Project coming soon!
+
