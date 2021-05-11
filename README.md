@@ -1,4 +1,4 @@
 # Takeout Card
 
-## Project coming soon!
+## Currently in progress!
 

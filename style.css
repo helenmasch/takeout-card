@@ -1,0 +1,15 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    color: #444;
+    /* font-family: 'Lato', sans-serif; */
+    font-family: 'Itim', cursive;
+}
