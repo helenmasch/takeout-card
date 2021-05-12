@@ -21,6 +21,10 @@ body {
     height: 100vh;
 }
 
+.pasta {
+    display: flex;
+}
+
 .pasta__img {
     width: 100%;
     display: block;
