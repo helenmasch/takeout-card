@@ -20,3 +20,8 @@ body {
     background: linear-gradient(to bottom left, #FB94A7, #5643DE);
     height: 100vh;
 }
+
+.pasta__img {
+    width: 100%;
+    display: block;
+}
