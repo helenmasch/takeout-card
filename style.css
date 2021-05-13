@@ -35,7 +35,7 @@ body {
     box-shadow: 0 30px 80px 10px rgba(0,0,0, .2);
 
     display: flex;
-    align-items: center;
+    align-items: stretch;
 }
 
 .pasta__hero {
@@ -56,4 +56,10 @@ body {
     flex: 0 0 50%;
     background: linear-gradient(to bottom left, #FB94A7, #5643DE);
     writing-mode: vertical-lr;
+    color: white;
+    font-size: 18px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
