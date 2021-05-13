@@ -39,7 +39,8 @@ body {
 }
 
 .pasta__content {
-background: white;
+    flex: 1;
+    background: white;
 }
 
 .pasta__price {
