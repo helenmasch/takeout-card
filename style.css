@@ -21,7 +21,12 @@ body {
     height: 100vh;
 
     display: flex;
+
+    /* cross axis */
     align-items: center;
+
+    /* main axis */
+    justify-content: center;
 }
 
 .pasta {
