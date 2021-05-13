@@ -42,6 +42,6 @@ body {
 background: white;
 }
 
-.pasta__hero {
-
+.pasta__price {
+    flex: 0 1 50%;
 }
