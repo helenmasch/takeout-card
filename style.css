@@ -11,7 +11,6 @@ Turquoise: #56F5DA */
     box-sizing: border-box;
 }
 
-html,
 body {
     color: #444;
     /* font-family: 'Lato', sans-serif; */
@@ -32,6 +31,7 @@ body {
 .pasta {
     max-width: 800px;
     border-radius: 4px;
+    overflow: hidden;
     box-shadow: 0 30px 80px 10px rgba(0,0,0, .2);
 
     display: flex;
