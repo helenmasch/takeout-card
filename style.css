@@ -22,10 +22,26 @@ body {
 }
 
 .pasta {
+    max-width: 800px;
+    border-radius: 4px;
+    box-shadow: 0 30px 80px 10px rgba(0,0,0, .2);
+
     display: flex;
+}
+
+.pasta__hero {
+    flex: 0 1 45%;
 }
 
 .pasta__img {
     width: 100%;
     display: block;
+}
+
+.pasta__content {
+background: white;
+}
+
+.pasta__hero {
+
 }
