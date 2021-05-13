@@ -27,10 +27,11 @@ body {
     box-shadow: 0 30px 80px 10px rgba(0,0,0, .2);
 
     display: flex;
+    align-items: center;
 }
 
 .pasta__hero {
-    flex: 0 1 45%;
+    flex: 0 0 45%;
 }
 
 .pasta__img {
