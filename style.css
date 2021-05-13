@@ -19,6 +19,8 @@ body {
     padding: 50px;
     background: linear-gradient(to bottom left, #FB94A7, #5643DE);
     height: 100vh;
+
+    display: flex;
 }
 
 .pasta {
