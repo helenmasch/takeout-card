@@ -53,6 +53,7 @@ body {
 }
 
 .pasta__price {
-    flex: 0 1 50%;
+    flex: 0 0 50%;
     background: linear-gradient(to bottom left, #FB94A7, #5643DE);
+    writing-mode: vertical-lr;
 }
