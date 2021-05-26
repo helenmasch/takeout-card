@@ -65,7 +65,7 @@ body {
 }
 
 .pasta__title {
-
+display: flex;
 }
 
 .pasta__heading {
