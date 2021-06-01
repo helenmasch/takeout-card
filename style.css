@@ -66,6 +66,7 @@ body {
 
 .pasta__title {
 display: flex;
+align-items: center;
 }
 
 .pasta__heading {
