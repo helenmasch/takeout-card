@@ -50,6 +50,7 @@ body {
 .pasta__content {
     flex: 1;
     background: white;
+    padding: 35px 30px;
 }
 
 .pasta__price {
@@ -71,6 +72,7 @@ align-items: center;
 
 .pasta__heading {
 font-size: 30px;
+margin-right: auto;
 }
 
 .pasta__tag {
