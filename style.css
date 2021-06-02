@@ -87,3 +87,7 @@ margin-left: 7px;
 
 .pasta__tag--1 { background-color: #FB94A7; }
 .pasta__tag--2 { background-color: #5643DE; }
+
+.pasta__description {
+    font-size: 14px;
+}
