@@ -95,7 +95,7 @@ body {
 
 .pasta__details {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .pasta__detail {
