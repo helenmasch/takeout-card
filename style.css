@@ -51,6 +51,9 @@ body {
     flex: 1;
     background: white;
     padding: 35px 30px;
+
+    background: white;
+    padding: 35px 30px;
 }
 
 .pasta__price {
@@ -95,7 +98,6 @@ body {
 
 .pasta__details {
   display: flex;
-  justify-content: space-between;
 }
 
 .pasta__detail {
